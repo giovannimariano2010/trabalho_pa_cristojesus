@@ -1,0 +1,10 @@
+body{
+background-image: url("/imagens/cruz-dia.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+}
+.bodyP{
+background-image: url("/imagens/nuvem.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+}
